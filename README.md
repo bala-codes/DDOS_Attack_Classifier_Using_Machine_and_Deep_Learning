@@ -2,7 +2,8 @@
 In this project, I've built an Machine and deep learning based classifiers (Ensemble) to distinguish the DDOS Attacks based on the networks parameters.
 
 Dataset Available [here](https://www.unb.ca/cic/datasets/nsl.html)
-Types of attacks classified here : 
+
+Types of attacks classified are : 
 
 attack = [['Normal'],
           ['neptune','back','land','pod','smurf','teardrop','mailbomb','apache2','processtable','udpstorm','worm'],
