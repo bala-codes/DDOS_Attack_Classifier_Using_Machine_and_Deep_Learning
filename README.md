@@ -1,4 +1,4 @@
-# DDOS-ATTACK-CLASSIFIER-USING-ML-AND-DL-MODELS
+# DDOS ATTACK CLASSIFIER USING MACHINE AND DEEP LEARNING.
 In this project, I've built an Machine and deep learning based classifiers (Ensemble) to distinguish the DDOS Attacks based on the networks parameters.
 
 Dataset Available [here](https://www.unb.ca/cic/datasets/nsl.html)
